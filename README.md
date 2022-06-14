@@ -1,4 +1,4 @@
-# 2SampleMR
+# 2 Sample MR (Pan-UKBB sleep study and ieugwas CHD study)
 
 Link to RMarkdown 2SampleMR Guide: http://10.22.9.205:8787/files/2SampleMRGuide.html
 - contains functional code with explanations
